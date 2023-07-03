@@ -1,0 +1,19 @@
+{
+  "name": "battleshipgame",
+  "version": "1.0.0",
+  "description": "Game about battleships",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matshiro/battleshipGame.git"
+  },
+  "author": "Matshiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Matshiro/battleshipGame/issues"
+  },
+  "homepage": "https://github.com/Matshiro/battleshipGame#readme"
+}
